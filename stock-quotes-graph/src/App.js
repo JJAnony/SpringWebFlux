@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+
+import LineChart from './LineChart';
 
 function App() {
   return (
     <div>
-        Grafico
+      <LineChart/>
     </div>
   );
 }
